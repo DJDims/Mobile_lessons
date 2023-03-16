@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JPTV20_10_03</string>
+    <string name="input_placeholder">input a string</string>
+    <string name="test">Hello world</string>
+    <string name="button">button</string>
+    <string name="textview">textview</string>
+    <string name="name">name</string>
 </resources>
