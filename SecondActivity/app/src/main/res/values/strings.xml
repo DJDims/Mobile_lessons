@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondActivity</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Phone">Phone</string>
+    <string name="Adress">Adress</string>
+    <string name="Send">Send message</string>
+</resources>
