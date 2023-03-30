@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="title">Проект жанры музыки</string>
+    <string name="topic1">Треш метал</string>
+    <string name="topic2">Синтвейв</string>
+    <string name="topic3">Электро свинг</string>
+    <string name="goback">Назад</string>
+</resources>
