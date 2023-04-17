@@ -17,4 +17,6 @@
     <string name="balduin_descr">Музыкальный дует, в жанре Электро свинг. Группа состоит из Мартина Старака и Бенедикта Куна.</string>
     <string name="tape_descr">Tape Five — немецкий музыкальный проект, основанный в 2003 году автором песен и продюсером Мартином Штратхаузеном. Tape Five создаёт музыку в различных стилях, таких как электро-свинг, нью-джаз, латина, лаунж и электро. Tape Five повлияли на движение электро-свинга своими альбомами Tonight Josephine (2010) и Swing Patrol (2012).</string>
     <string name="goback">Назад</string>
+    <string name="to_web">Веб браузер</string>
+    <string name="search">Поиск</string>
 </resources>

@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn1;
     private Button btn2;
     private Button btn3;
+    private Button btn4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         btn1 = findViewById(R.id.button);
         btn2 = findViewById(R.id.button2);
         btn3 = findViewById(R.id.button3);
+        btn4 = findViewById(R.id.button5);
 
         btn1.setOnClickListener(view -> {
             goToScreen(1);
@@ -29,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
         });
         btn3.setOnClickListener(view -> {
             goToScreen(3);
+        });
+        btn4.setOnClickListener(view -> {
+            goToScreen(4);
         });
     }
 
@@ -42,6 +47,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case 3:
                 startActivity(new Intent(this, ElectroSwing.class));
+                break;
+            case 4:
+                startActivity(new Intent(this, webPage.class));
                 break;
         }
     }
