@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB_games</string>
+    <string name="addNew">Добавить игру</string>
+    <string name="edit">Изменить игру</string>
+    <string name="delete">Удалить игру</string>
+    <string name="title">Название игры</string>
+    <string name="year">Год выпуска</string>
+</resources>
